@@ -1,4 +1,4 @@
-# MUSICIAL
+# MUSICI-AI
 
 Musicai is a full-stack web application built using the PERN stack (PostgreSQL, Express, React, and Node.js). It allows users to listen to music, upload their favorite songs, search for music by artist and genre, and more.
 # Features
